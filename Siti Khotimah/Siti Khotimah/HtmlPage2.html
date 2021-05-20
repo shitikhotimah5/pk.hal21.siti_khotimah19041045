@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>View State Example</title>
+    <script runat="server" language="C#">
+                 void Click(Object s, EventArgs e) {
+                if(userName.Text == "pageEvent"){
+                Response.Redirect("pageEvent.aspx");
+                }else{
+        messageLabel.Text = userName.Text;
+        }
+         }
+    </script>
+</head>
+<body>
+    <form runat="server">
+        <asp:TextBox id="userName" runat="server" />
+        <asp:Button id="submitButton" runat="server"
+                    Text="Click Me" OnClick="Click" />
+        <asp:Label id="messageLabel" runat="server" />
+    </form>
+</body>
+</html>

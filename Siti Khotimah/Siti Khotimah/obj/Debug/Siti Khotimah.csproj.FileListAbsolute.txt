@@ -1,0 +1,33 @@
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\ApplicationInsights.config
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\roslyn\csc.exe
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\roslyn\System.Collections.Immutable.dll
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\roslyn\vbc.exe
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\roslyn\VBCSCompiler.exe
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\roslyn\VBCSCompiler.exe.config
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\Siti Khotimah.dll.config
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\Siti Khotimah.dll
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\Siti Khotimah.pdb
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\Microsoft.AI.Web.dll
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\Microsoft.AI.WindowsServer.dll
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\Microsoft.ApplicationInsights.dll
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\Microsoft.AI.Web.xml
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\Microsoft.AI.WindowsServer.xml
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\Microsoft.ApplicationInsights.xml
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\obj\Debug\Siti Khotimah.csprojResolveAssemblyReference.cache
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\obj\Debug\Siti Khotimah.dll
+c:\users\labkom\documents\visual studio 2015\Projects\Siti Khotimah\Siti Khotimah\obj\Debug\Siti Khotimah.pdb
